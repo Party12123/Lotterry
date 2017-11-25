@@ -14,7 +14,7 @@
 
 - หากเป็น Linux Ubuntu เลือกหัวข้อ Debian and Ubuntu based Linux distributions [Download](https://nodejs.org/en/download/package-manager/#arch-linux)
 
-2. ติดตั้ง [MongoDB](https://www.mongodb.com/download-center?jmp=nav) จากนั้นให้ทำการ Set Path mongoDB และทำการเปิดการทำงานของ Server  and Connect Server
+2. ติดตั้ง MongoDB จากนั้นให้ทำการ Set Path mongoDB และทำการเปิดการทำงานของ Server  and Connect Server
 			
      ```sh
     Start Server
