@@ -8,7 +8,7 @@
 - เปิดเซิฟเวอร์และทำการ Routing ผ่านโมดูล [Express](https://www.npmjs.com/package/express)
 
 ## เริ่มต้นการใช้งาน
-1. ติดตั้ง [NodeJS]( https://nodejs.org/en/) 
+1. ติดตั้ง NodeJS
 
 - หากเป็น Windows สามารถดาวโหลดมาติดตั้งได้เลย [Download](https://nodejs.org/en/download/)
 
