@@ -10,7 +10,7 @@
 ## เริ่มต้นการใช้งาน
 1. ติดตั้ง [NodeJS]( https://nodejs.org/en/) 
 
--หากเป็น Windows สามารถดาวโหลดมาติดตั้งได้เลย [Download](https://nodejs.org/en/download/)
+- หากเป็น Windows สามารถดาวโหลดมาติดตั้งได้เลย [Download](https://nodejs.org/en/download/)
 
 - หากเป็น Linux Ubuntu เลือกหัวข้อ Debian and Ubuntu based Linux distributions [Download](https://nodejs.org/en/download/package-manager/#arch-linux)
 
