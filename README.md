@@ -18,6 +18,7 @@
             - [วิธีติดตั้งแบบเอกสาร](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
 			
             - [วิธีติดตั้งแบบวิดีโอ](https://www.youtube.com/watch?v=IPV2Z3f-WMk)
+			
      ```sh
     Start Server
      $>mongod
