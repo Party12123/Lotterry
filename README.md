@@ -9,15 +9,15 @@
 
 ## เริ่มต้นการใช้งาน
 1. ติดตั้ง [NodeJS]( https://nodejs.org/en/) 
+-หากเป็น Windows สามารถดาวโหลดมาติดตั้งได้เลย [Download](https://nodejs.org/en/download/)
 
-        -หากเป็น Windows สามารถดาวโหลดมาติดตั้งได้เลย [Download](https://nodejs.org/en/download/)
-		
-        - หากเป็น Linux Ubuntu เลือกหัวข้อ Debian and Ubuntu based Linux distributions [Download](https://nodejs.org/en/download/package-manager/#arch-linux)
+- หากเป็น Linux Ubuntu เลือกหัวข้อ Debian and Ubuntu based Linux distributions [Download](https://nodejs.org/en/download/package-manager/#arch-linux)
+
 2. ติดตั้ง [MongoDB](https://www.mongodb.com/download-center?jmp=nav) จากนั้นให้ทำการ Set Path mongoDB และทำการเปิดการทำงานของ Server  and Connect Server
 
-            - [วิธีติดตั้งแบบเอกสาร](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
-			
-            - [วิธีติดตั้งแบบวิดีโอ](https://www.youtube.com/watch?v=IPV2Z3f-WMk)
+- [วิธีติดตั้งแบบเอกสาร](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
+	
+-  วิธีติดตั้งแบบวิดีโอ](https://www.youtube.com/watch?v=IPV2Z3f-WMk)
 			
      ```sh
     Start Server
