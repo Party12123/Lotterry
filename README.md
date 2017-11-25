@@ -38,5 +38,5 @@
     ```
 - Get method http://localhost:8080/{year}/{month}/{date}
 - Post method http://localhost:8080/
-
+- สามารถใช้ Robo 3T เป็น  GUI ในการจัดการฐานข้อมูล MongoDB เพื่อความสะดวกต่อการดูข้อมูล [Download](https://robomongo.org/)  [ วิดีโอสอนการติดตั้ง Robo 3T](https://www.youtube.com/watch?v=0cxFyeQ4Vio)
   แนะนำการตรวจสอบการทำงานของ Post method ผ่าน [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=th)
