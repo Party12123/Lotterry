@@ -1,6 +1,7 @@
 # ตรวจหวยออนไลน์ผ่าน API เขียนด้วย NodeJS + MongoDB
 ทำ WebScrap จากเว็ปไซต์ [Kapook.com]( http://lottery.kapook.com/history.html) แล้วทำการบันทึกข้อมูลลง MongoDB + NodeJS
-##ขั้นตอนการทำงานของ WebScrap
+
+ขั้นตอนการทำงานของ WebScrap
 - ร้องขอการเชื่อต่อเว็ปผ่าน Protocal HTTP ด้วย [Requests](https://www.npmjs.com/package/request) (ในไฟล์ scrap.js) 
 - ทำการอ่านแท็กต่างๆเพื่อเก็บข้อมูล โดยใช้ [Cheerio](https://github.com/cheeriojs/cheerio) (ในไฟล์ scrap.js)
 - บันทึกข้อมูลที่ได้มาลงในฐานข้อมูล MongoDB
